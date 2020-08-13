@@ -2,7 +2,7 @@
 	"data": "1.0.1",
 	"data_num": "101",
 	"date": "2020-08-13",
-	"updata_url": "https://github.com/Freeman535/data_base/blob/master/lgbao_operate.exe?raw=true",
-	"updata_url2": "https://development6.baidupan.com/081322bb/2020/08/13/0dbaccd982b2d295851d0f9cd459dce6.exe?st=JewADoviz3MdakM1PFahew&e=1597331689&b=VWsMawBiWDwAOgILAzwEcAU1XHJTMwR2AjRfsQaBBZcDYFt1UmJZclYyVeAA0AeSVi0NNFcuVDc_c&fi=27934166&pid=36-49-27-70&up=",
+	"updata_url": "https://github.com/Freeman535/data_base/blob/master/lgbao_operate【1.0.1】.exe?raw=true",
+	"updata_url2": "https://dev76.baidupan.com/081322bb/2020/08/13/18e6fa2852ce5b095da36c06ab0b2e43.exe?st=gTAlZZbigzg5y4_m-ExAJA&e=1597332697&b=VmgKbVU3UjZUbgQNAT4DdwQ0CiRXNwt5ADZYtlPUVMYJag4gBTVXfARgVeAG1gaTA3hZYAJ7C2g_c&fi=27934737&pid=36-49-27-70&up=",
 	"updata_main": "此版本更新了2个功能：\n一、添加了功能一【查询订单功能】中的检查订单进价，判断是否可以正常出库。\n二、新增功能十。此功能是查询长春库中可出的货在零供宝指定门店中进价售价情况。\n三、调整了功能三【报表制作】中demo.xls和a.xls的默认读取位置，现在放在运行目录中即可，不用放在桌面占地方啦！\n四、调整了功能三【报表制作】中单品不被识别红色字体警告和最后有检查合计金额是否与excel表中一致的输出提示，方便大家校验。\n五、对某些地点进行了颜色化提示，便于大家知道哪里是分界点。"
 }
