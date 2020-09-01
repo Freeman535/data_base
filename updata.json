@@ -1,8 +1,8 @@
 {
-	"data": "1.0.2",
-	"data_num": "102",
-	"date": "2020-08-19",
+	"data": "1.0.3",
+	"data_num": "103",
+	"date": "2020-09-01",
 	"updata_url": "https://github.com/Freeman535/data_base/blob/master/lgbao_operate.exe?raw=true",
-	"updata_url2": "https://wws.lanzous.com/iWoEPfsff1e",
-	"updata_main": "此版本更新了3个功能：\n一、优化了警示代码。\n二、优化了GitHub获取资源的方式。\n三、优化了自动更新的下载方式。\n"
+	"updata_url2": "https://wws.lanzous.com/iFU7og988of",
+	"updata_main": " 此版本更新了3个功能：\n一、新增功能12【# 查询门店库存有没有指定条码】。\n二、提高了后台数据的获取速度。\n三、更新了某些应用的提示语。\n"
 }
