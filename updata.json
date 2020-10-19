@@ -1,9 +1,9 @@
 {
-	"data": "1.0.5",
-	"data_num": "105",
+	"data": "1.0.6",
+	"data_num": "106",
 	"lanzou_var": "ajaxdata",
-	"date": "2020-09-22",
+	"date": "2020-10-19",
 	"updata_url": "https://github.com/Freeman535/data_base/blob/master/lgbao_operate.exe?raw=true",
-	"updata_url2": "https://wws.lanzous.com/ihNX3gu5mwf",
+	"updata_url2": "https://wws.lanzous.com/i2HIohk028h",
 	"updata_main": " 此版本更新了4个功能：\n一、新增功能12【# 查询门店库存有没有指定条码】。\n二、提高了后台数据的获取速度。\n三、更新了某些应用的提示语。\n四、更新了报表制作"
 }
