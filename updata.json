@@ -5,5 +5,10 @@
 	"date": "2020-10-19",
 	"updata_url": "https://github.com/Freeman535/data_base/blob/master/lgbao_operate.exe?raw=true",
 	"updata_url2": "https://wws.lanzous.com/i2HIohk028h",
-	"updata_main": " 此版本更新了4个功能：\n一、新增功能12【# 查询门店库存有没有指定条码】。\n二、提高了后台数据的获取速度。\n三、更新了某些应用的提示语。\n四、更新了报表制作"
+	"updata_main": " 此版本更新了4个功能：\n一、新增功能12【# 查询门店库存有没有指定条码】。\n二、提高了后台数据的获取速度。\n三、更新了某些应用的提示语。\n四、更新了报表制作",
+	"mf_data": "0.0.1",
+	"mf_data_num": "1001",
+	"mf_date": "2021-03-06",
+	"mf_updata_main": "lite_mf",
+	"mf_updata_url": "https://abc"
 }
