@@ -1,1 +1,22 @@
-
+{
+	"data": "1.0.7",
+	"data_num": "107",
+	"lanzou_var": "ajaxdata",
+	"date": "2021-03-09",
+	"updata_url": "https://github.com/Freeman535/data_base/blob/master/lgbao_operate.exe?raw=true",
+	"updata_url2": "https://wws.lanzous.com/idG29mpz6jc",
+	"updata_main": "此版本做了简化，只保留了销售查询，库存查询以及订单查询。",
+	"mf_data": "0.0.1",
+	"mf_data_num": "1001",
+	"mf_date": "2021-03-06",
+	"mf_updata_main": "lite_mf",
+	"mf_updata_url": "https://abc",
+	"data_new":{
+        "detailed-list": {
+			                 "url":"https://ss",
+			                 "url_base.xlsx":"https://ss",
+			                 "software_var_num":1001
+                         }
+             }
+	
+}
